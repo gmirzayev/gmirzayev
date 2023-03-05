@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 My name is Gleb and I'm a full stack software engineer.
-I'm passoniate about creating products and seeing my code come to life on the screen.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,git,nodejs,express,mongodb,postgres,ruby,rails,py,react,redux,webpack,aws,vscode&perline=9)](https://skillicons.dev)
 
