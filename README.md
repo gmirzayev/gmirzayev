@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,nodejs,express,mongodb,postgres,ruby,rails,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,nodejs,express,mongodb,postgres,ruby,rails,py,react,redux)](https://skillicons.dev)
 
 <!--
 **gmirzayev/gmirzayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
