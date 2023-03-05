@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,nodejs,express,mongodb,postgres,ruby,rails,py,react,redux)](https://skillicons.dev)
+My name is Gleb. I'm a software engineer in the Greater New York area. I 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,nodejs,express,mongodb,postgres,ruby,rails,py,react,redux,webpack,aws,vscode)](https://skillicons.dev)
 
 <!--
 **gmirzayev/gmirzayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
